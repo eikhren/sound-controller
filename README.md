@@ -1,16 +1,10 @@
 # Sound Controller
 
 ![GitHub license](https://img.shields.io/github/license/BVengo/sound-controller.svg)
-![GitHub release](https://img.shields.io/github/release/BVengo/sound-controller.svg)
-![GitHub issues](https://img.shields.io/github/issues/BVengo/sound-controller.svg)
-
-We've all dealt with that loud portal before, or those ridiculously loud mob farms. Perhaps you're even listening out for a particular mob while caving. Have you ever wanted to just fine-tune those specific sounds without being limited by the category sliders?
 
 Sound Controller is a fabric mod providing complete volume control over the sounds played in the game. It adds an extra set of options to your sound settings, providing you with volume sliders for every single sound between 0-200%.
 
 By utilising the minecraft registry, this mod should also include all other sounds added to the game by your favourite mods (provided those mods add their sounds to the normal registry).
-
-This mod is available on [GitHub](https://www.github.com/BVengo/sound-controller), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-controller), and [Modrinth](https://www.modrinth.com/mod/sound-controller).
 
 ---
 
@@ -36,6 +30,3 @@ When using the final feature, it may be hard to hear your sound around all the o
 
 ## Contributing
 Contributions and suggestions are always welcome! Please limit all issues to only one feature at a time - feel free to open multiple at once if you have many ideas. Similarly, please limit pull requests to a single feature at a time and try to follow the existing code style.
-
-
-To further discuss or get notifications of new updates, check out my [Discord](https://discord.gg/gyTa5v7kKk). If you like what I do, consider supporting me on Ko-Fi! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7DZ3FB)
